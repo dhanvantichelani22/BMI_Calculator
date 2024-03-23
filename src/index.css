@@ -21,13 +21,15 @@ code {
 } */
 .container{
   box-shadow: -18px 22px 45px rgba(232, 28, 66, 0.89),
-    18px -22px 45px rgba(53, 28, 232, 0.74);
+    18px -22px 45px rgba(28, 232, 86, 0.74);
   padding: 3%;
   border-radius: 20px;
   display: flex;
   flex-direction: column;
   gap: 10px;
   margin-left:32em;
+  /* color: #000; */
+  /* background-color: bisque; */
   margin-bottom: 5rem;
   margin-right: 32em;
   margin-top: 6em;
